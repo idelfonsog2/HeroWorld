@@ -1,1 +1,2 @@
 # HeroWorld
+Creating a test case of a new park for The Walt Disney company in order to track schedules and budgeting for the construction of all the projects. We were able to implement a database using normalization, which helps identifies the identities inside the projects. Going through the process of Table Creation, Views, Stored Procedures, Triggers; we learned how an activity relates to a project, how a project can have many employees, and how a firm can own many employees. This is done using the concept of relational database.
